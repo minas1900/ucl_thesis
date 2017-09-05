@@ -1,0 +1,2 @@
+model_checkpoint_path: "CVAE_CGM_Full_http_h_dim_128_zDim_10"
+all_model_checkpoint_paths: "CVAE_CGM_Full_http_h_dim_128_zDim_10"
