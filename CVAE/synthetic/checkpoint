@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_CVAE_rnn__cnn_synthetic_h_dim_512_zDim_100_split_ratio0_5"
+all_model_checkpoint_paths: "cnn_CVAE_rnn__cnn_synthetic_h_dim_512_zDim_100_split_ratio0_5"
