@@ -1,0 +1,2 @@
+model_checkpoint_path: "CVAE_CGM__strawberries_h_dim_1024_zDim_2"
+all_model_checkpoint_paths: "CVAE_CGM__strawberries_h_dim_1024_zDim_2"
