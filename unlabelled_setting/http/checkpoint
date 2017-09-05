@@ -1,0 +1,2 @@
+model_checkpoint_path: "unsupervised__linVAElin__http_h_256_z_10"
+all_model_checkpoint_paths: "unsupervised__linVAElin__http_h_256_z_10"
