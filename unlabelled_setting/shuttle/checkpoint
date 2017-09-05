@@ -1,0 +1,2 @@
+model_checkpoint_path: "unsupervised__linVAElin_2_Shuttle_h_1024_z_10"
+all_model_checkpoint_paths: "unsupervised__linVAElin_2_Shuttle_h_1024_z_10"
